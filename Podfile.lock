@@ -1,0 +1,20 @@
+PODS:
+  - Hex (6.0.0)
+  - SnapKit (5.0.0)
+
+DEPENDENCIES:
+  - Hex
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Hex
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Hex: 3888e06c29fe725b12e33d434e31b06beb4112db
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+
+PODFILE CHECKSUM: 18de3b61931c2b2fd5852a0b236f3189320ea8b8
+
+COCOAPODS: 1.11.2
